@@ -77,8 +77,8 @@ npm run gather
 
 
 # 👤 Author
-### Telegram: [@idioguru](https://t.me/idioguru)   
-https://t.me/idioguru
+### Telegram: [@idioRusty](https://t.me/idioRusty)   
+https://t.me/idioRusty
 
 
 ### Volume bot source code can be owned with 10SOL.
