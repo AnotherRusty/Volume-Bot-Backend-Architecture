@@ -80,8 +80,8 @@ npm start
 
 ## Author
 
-Twitter: [@0xmooncity](https://twitter.com/0xmooncity)
+Twitter: [@idioRusty](https://twitter.com/idioRusty)
 
-Telegram: [@Mooncity](https://t.me/mooncity0x)
+Telegram: [@idioRusty](https://t.me/idioRusty)
 
 You can always find me here, for help, or for other projects.
